@@ -5,3 +5,5 @@
 - 2 tsp salt
 - 1/2 onion
 - add schoco
+- add olives
+
