@@ -6,4 +6,6 @@
 - 1/2 onion
 - add schoco
 - add olives
+- add tomatoes
+- added beans
 
